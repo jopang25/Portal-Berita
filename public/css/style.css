@@ -1,0 +1,42 @@
+/* body {
+    background-color: salmon;
+}
+
+.img .about {
+    width: 200px; /* Menetapkan lebar untuk elemen about */
+/* }
+
+.img img {
+    width: 100%; /* Agar gambar mengisi lebar elemen parent */
+    /* height: auto; /* Menjaga rasio aspek gambar */
+/* } */
+
+
+
+
+  
+  .form-signin .form-floating:focus-within {
+    z-index: 2;
+  }
+  
+  .form-signin input[type="email"] {
+    margin-bottom: -1px;
+    border-bottom-right-radius: 0;
+    border-bottom-left-radius: 0;
+  }
+  
+  .form-signin input[type="password"] {
+    margin-bottom: 10px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+  }
+
+  .form-registration input{
+    border-radius: 0;
+    margin-bottom: -1px;
+  }
+
+  .card img {
+    width: 100% !important;
+    height: auto !important;
+}
